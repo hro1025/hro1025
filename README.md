@@ -4,11 +4,11 @@
 
 ---
 
-🎓 Currently studying **C#, .NET & SQL** at Kodehode/Jobloop Bergen  
-🔧 Certified **IT Operations Technician** (fagbrev)  
-🌍 Worked as IT intern in **Germany** and **Norway**  
-🏠 Passionate about **self-hosting, homelabs & open source**  
-💬 **Norwegian** & **German** native | Conversational English
+🎓 Junior Backend Developer in training — focused on **C# & .NET**  
+🔧 Certified **IT Operations Technician** — hands-on experience in IT support, networking & infrastructure  
+🌍 IT intern experience from **Germany** (Freiburg) and **Norway** (Lillehammer)  
+🏠 Self-hosting & homelab enthusiast — running services on **Proxmox** with Cloudflare, Pi-hole & more  
+💬 **Norwegian** · **German** · **English**
 
 ---
 
