@@ -1,16 +1,42 @@
 # Hi 👋, I'm Roan
 
-### A passionate C# developer
+### Junior Backend Developer | IT Operations | Bergen, Norway
 
-<h3 align="left">Connect with me:</h3>
+---
+
+🎓 Currently studying **C#, .NET & SQL** at Kodehode/Jobloop Bergen  
+🔧 Certified **IT Operations Technician** (fagbrev)  
+🌍 Worked as IT intern in **Germany** and **Norway**  
+🏠 Passionate about **self-hosting, homelabs & open source**  
+💬 Fluent in **Norwegian, German & English**
+
+---
+
+### 🛠️ Skills & Technologies
+
 <p align="left">
-<a href="https://github.com/hro1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hro1025" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hro1025&show_icons=true&locale=en&layout=compact" alt="hro1025" /></p>
+### 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hro1025&show_icons=true&locale=en" alt="hro1025" /></p>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Runbook](https://github.com/hro1025/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
+| [BookFlow](https://github.com/hro1025/BookFlow) | Backend project from Kodehode course | C#, .NET |
+| HomeLab | Self-hosted services on Proxmox — Pi-hole, Filebrowser, FiveM, Cloudflare Tunnel | Proxmox, Linux, Cloudflare |
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hro1025&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hro1025&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
