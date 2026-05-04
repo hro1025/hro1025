@@ -15,7 +15,7 @@
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,bash,linux,arch,docker,vmware,neovim" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,bash,linux,arch,docker,neovim" height="40" />
 </p>
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
