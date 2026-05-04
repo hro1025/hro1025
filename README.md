@@ -8,7 +8,7 @@
 🔧 Certified **IT Operations Technician** (fagbrev)  
 🌍 Worked as IT intern in **Germany** and **Norway**  
 🏠 Passionate about **self-hosting, homelabs & open source**  
-💬 Fluent in **Norwegian, German & English**
+💬 **Norwegian** & **German** native | Conversational English
 
 ---
 
