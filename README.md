@@ -54,13 +54,5 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=hro1025&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hro1025&theme=tokyonight&no-frame=true&row=1" />
-</p>
   <img src="https://streak-stats.demolab.com?user=hro1025&theme=tokyonight&hide_border=true" height="160" />
 </p>
