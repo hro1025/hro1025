@@ -45,8 +45,11 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="left">
+  <img src="https://readme-stats.cloooud.com/api?username=hro1025&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://readme-stats.cloooud.com/api/top-langs/?username=hro1025&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hro1025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hro1025&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=hro1025&theme=tokyonight&hide_border=true" height="160" />
 </p>
