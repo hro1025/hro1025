@@ -5,9 +5,9 @@
 ---
 
 🎓 Junior Backend Developer in training, focused on **C# & .NET**  
-🔧 Certified **IT Operations Technician** with hands on experience in IT support, networking and infrastructure  
-🌍 IT apprentice in both **Germany** and **Norway**  
-🏠 Self-hosting enthusiast running a homelab on **Proxmox**  
+🔧 Certified **IT Operations Technician**, hands-on experience in IT support, networking & infrastructure  
+🌍 IT apprentice experience from **Germany** and **Norway**  
+🏠 Self-hosting & homelab enthusiast, running services on **Proxmox** with Cloudflare, Pi-hole & more  
 💬 **Norwegian** · **German** · **English**
 
 ---
