@@ -32,7 +32,6 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Runbook](https://github.com/hro1025/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
-| [BookFlow](https://github.com/hro1025/BookFlow) | Backend project from Kodehode course | C#, .NET |
 | HomeLab | Self-hosted services on Proxmox — Pi-hole, Filebrowser, FiveM, Cloudflare Tunnel | Proxmox, Linux, Cloudflare |
 | LFS | Built a complete Linux system from source code during IT apprenticeship in Germany | Linux, GCC, Bash |
 
