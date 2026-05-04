@@ -42,14 +42,4 @@
 | [BookFlow](https://github.com/hro1025/BookFlow) | Backend project from Kodehode course | C#, .NET |
 | HomeLab | Self-hosted services on Proxmox — Pi-hole, Filebrowser, FiveM, Cloudflare Tunnel | Proxmox, Linux, Cloudflare |
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://readme-stats.cloooud.com/api?username=hro1025&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://readme-stats.cloooud.com/api/top-langs/?username=hro1025&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=hro1025&theme=tokyonight&hide_border=true" height="160" />
-</p>
